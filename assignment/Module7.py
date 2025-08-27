@@ -21,7 +21,7 @@
 # Python is widely used for web development, data analysis, artificial intelligence, machine learning, automation, and more. 
 # large standard library and community support make it one of the most popular programming languages in the world.
 
-#  4) Write a Python program to check if a number is positive, negative or zero.? 
+#  4) Write a Python program to check if a number is positive, negative or zero.??
 
 
 # Take input from the user
